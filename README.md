@@ -3,6 +3,13 @@
 This Power BI project visualizes and analyzes sales data for a coffee shop, providing insights into total sales, order trends, quantity sold, and more. The dashboard offers detailed breakdowns by weekday/weekend, location, time, and product categories.
 
 ---
+## 📷 Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](COFEE_SALES_DASHBORDS.JPG)
+
+### Calendar Tooltip                                                         | Day & Hour Tooltip
+![Calendar Tooltip](Tool%20Tips%20For%20-%20Calender%20Charts.JPG)           ![Hour Tooltip](Tool%20Tips%20For%20-%20Day%20%26%20Hour%20Charts.JPG)
 
 ## 📁 Project Overview
 
@@ -59,14 +66,3 @@ This report is built in **Power BI** to help business stakeholders and data anal
 - **Data Modeling**
 
 ---
-
-## 📷 Screenshots
-
-### Dashboard Overview
-![Dashboard Overview](COFEE_SALES_DASHBORDS.JPG)
-
-### Calendar Tooltip
-![Calendar Tooltip](Tool%20Tips%20For%20-%20Calender%20Charts.JPG)
-
-### Day & Hour Tooltip
-![Hour Tooltip](Tool%20Tips%20For%20-%20Day%20%26%20Hour%20Charts.JPG)
