@@ -9,7 +9,7 @@ This Power BI project visualizes and analyzes sales data for a coffee shop, prov
 ![Dashboard Overview](COFEE_SALES_DASHBORDS.JPG)
 
 ### Drill Through
-![Drill Through]()
+![Drill Through](https://raw.githubusercontent.com/amitpachpute2510/Coffee_Shop_Dashbord_in_POWER_BI-/refs/heads/main/Drill_Thruogh.JPG)
 
 ### Calendar Tooltip                                                         
 ![Calendar Tooltip](Tool%20Tips%20For%20-%20Calender%20Charts.JPG)           
@@ -41,6 +41,7 @@ This report is built in **Power BI** to help business stakeholders and data anal
 - Hourly heatmap for sales performance
 
 ### 🔸 Tooltips (Drill-through Visualizations)
+- **Drill Through** (Detailed Information of Product Cathegory )
 - **Calendar Tooltip** (Daily Breakdown)
 - **Day & Hour Tooltip** (Detailed Hourly Insights)
 
