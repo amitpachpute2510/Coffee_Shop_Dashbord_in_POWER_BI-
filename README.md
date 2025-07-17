@@ -8,12 +8,14 @@ This Power BI project visualizes and analyzes sales data for a coffee shop, prov
 ### Dashboard Overview
 ![Dashboard Overview](COFEE_SALES_DASHBORDS.JPG)
 
+### Drill Through
+![Drill Through]()
+
 ### Calendar Tooltip                                                         
 ![Calendar Tooltip](Tool%20Tips%20For%20-%20Calender%20Charts.JPG)           
 
 ### Day & Hour Tooltip
 ![Hour Tooltip](Tool%20Tips%20For%20-%20Day%20%26%20Hour%20Charts.JPG)
-
 
 ## 📁 Project Overview
 
